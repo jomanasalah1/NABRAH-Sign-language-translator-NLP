@@ -88,9 +88,6 @@ Sign recognition can misclassify a sign. The gloss → Egyptian Arabic engine de
 
 Python, HuggingFace Transformers, PEFT (LoRA), NLTK (WordNet), Google Gemini API
 
-## Full Documentation
-
-[NLP pipeline documentation](docs/NLP_Documentation.md)
 
 ## Getting Started
 
