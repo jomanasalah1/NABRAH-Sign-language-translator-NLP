@@ -1,0 +1,21 @@
+# Core
+torch
+transformers>=4.46
+datasets
+peft>=0.19
+accelerate
+sentencepiece
+
+# Evaluation
+evaluate
+sacrebleu
+rouge_score
+nltk
+
+# Data and plots
+numpy
+pandas
+matplotlib
+
+# Arabic pipeline (Gemini API calls)
+requests
