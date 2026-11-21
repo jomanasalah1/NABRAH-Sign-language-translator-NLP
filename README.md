@@ -74,14 +74,12 @@ Sign recognition can misclassify a sign. The gloss → Egyptian Arabic engine de
 │   ├── english_to_gloss.py     # training, evaluation, interactive demo
 │   ├── gloss_to_english.py     # training, evaluation, normalizer, interactive demo
 │   ├── adapter/                # trained LoRA adapter and tokenizer
-│   ├── data/                   # datasets
-│   └── results/                # test metrics
+│── data/                   # dataset
+│── results/                # test metrics for the English model
 ├── arabic/
 │   ├── arabic_to_gloss.py      # Egyptian Arabic → EgySL gloss
 │   └── gloss_to_arabic.py      # EgySL gloss → Egyptian Arabic
-└── docs/
-    ├── NLP_Documentation.md    # full technical documentation
-    └── images/
+└── images/
 ```
 
 ## Tech Stack
