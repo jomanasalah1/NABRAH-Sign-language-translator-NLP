@@ -33,8 +33,8 @@ Each language has its own pipeline and handles both directions, so the system co
 
 | English → Gloss | Gloss → English |
 |:---:|:---:|
-| ![Metrics](images/metrics_bar_chartEnglishToGloss.png) | ![Metrics](images/metrics_bar_chart_gloss_to_english.png) |
-| ![Training curves](images/training_curves_english_to_gloss.png) | ![Training curves](images/training_curves_gloss_to_english.png) |
+| ![Metrics](images/metrics_bar_chartEnglishToGloss.png) | ![Metrics](images/metrics_bar_chartglosstoenglish.png) |
+| ![Training curves](images/training_curvesenglishtogloss.png) | ![Training curves](images/training_curvesglosstoenglish.png) |
 
 ### Sample test predictions (gloss → English)
 
@@ -65,7 +65,7 @@ Sign recognition can misclassify a sign. The gloss → Egyptian Arabic engine de
 | أنت روح مستشفى إمبارح ليه | أنت روحت المستشفى إمبارح ليه؟ | هو أنت ليه روحت المستشفى إمبارح؟ |
 | طالب واجب كتب لا مدرس ذنب | الطالب ماكتبش الواجب، المدرس بيذنبه. | الطالب مش بيكتب والمدرس بيعاقبه. |
 
-![Real-world error correction](images/real_time_error_correction.png)
+![Real-world error correction](images/Real-time Error correction.png)
 
 ## Repository Structure
 
