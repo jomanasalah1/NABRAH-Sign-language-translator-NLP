@@ -33,8 +33,8 @@ Each language has its own pipeline and handles both directions, so the system co
 
 | English → Gloss | Gloss → English |
 |:---:|:---:|
-| ![Metrics](images/metrics_bar_chartEnglishToGloss.png) | ![Metrics](images/metrics_bar_chartglosstoenglish.png) |
-| ![Training curves](images/training_curvesenglishtogloss.png) | ![Training curves](images/training_curvesglosstoenglish.png) |
+| ![Metrics](images/metrics_bar_chartEnglishToGloss.png) | ![Metrics](images/metrics_bar_chartGlossToEnglish.png) |
+| ![Training curves](images/training_curvesEnglishToGloss.png) | ![Training curves](images/training_curvesGlossToEnglish.png) |
 
 ### Sample test predictions (gloss → English)
 
