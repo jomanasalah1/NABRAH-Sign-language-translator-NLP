@@ -65,7 +65,7 @@ Sign recognition can misclassify a sign. The gloss → Egyptian Arabic engine de
 | أنت روح مستشفى إمبارح ليه | أنت روحت المستشفى إمبارح ليه؟ | هو أنت ليه روحت المستشفى إمبارح؟ |
 | طالب واجب كتب لا مدرس ذنب | الطالب ماكتبش الواجب، المدرس بيذنبه. | الطالب مش بيكتب والمدرس بيعاقبه. |
 
-![Real-world error correction](images/Real-time Error correction.png)
+![Real-world error correction](images/Real-time_Error_correction.png)
 
 ## Repository Structure
 
